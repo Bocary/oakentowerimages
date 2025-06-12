@@ -1,0 +1,5 @@
+32x32 image --> frame size = 40x40
+Then resize to 200x200
+then add 200x200 border.
+
+Then resize everything to 2048x2048
